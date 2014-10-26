@@ -1,4 +1,4 @@
-{"comics":{
+{"comics":[{
     "image": "http://leagueofcomicgeeks.com//comics/covers/large/2771392-the-amazing-spider-man-8.jpg?1413850416", 
     "price": " $3.99", 
     "publisher": "Marvel Comics", 
@@ -803,5 +803,4 @@
     "releaseDate": " Oct 22nd, 2014 ", 
     "thumbnail": "http://leagueofcomicgeeks.com//comics/covers/medium/1859844-world-of-archie-comics-digest-44.jpg?1413931059", 
     "title": "World of Archie Comics Digest #44"
-}
-}
+]}
