@@ -66,6 +66,6 @@ for entry in entries:
 	comics_JSON = comics_JSON + str(comic.to_JSON()) + ','
 
 #Write out json to file
-comics_JSON = comics_JSON[0 : len(comics_JSON) - 2] + ']' #trim extra ','
+comics_JSON = comics_JSON[0 : len(comics_JSON) - 2] + '}]' #trim extra ','
 with open('comics.json', 'w') as outfile:
 	outfile.write(comics_JSON)	
