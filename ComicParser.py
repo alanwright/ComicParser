@@ -8,8 +8,8 @@ import urllib2
 import json
 
 #Constants
-DOMAIN = 'http://leagueofcomicgeeks.com/'
-NEW_COMICS_DOMAIN = DOMAIN + 'comics/new-comics'
+DOMAIN = 'http://leagueofcomicgeeks.com'
+NEW_COMICS_DOMAIN = DOMAIN + '/comics/new-comics'
 DETAIL_SPLIT = '&nbsp;&#183;&nbsp;'
 NO_COVER = 'no-cover'
 
